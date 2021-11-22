@@ -1,10 +1,8 @@
-# Curso 1974 - Criando APIs com ASP.NET Core 2.0 e Dapper
-
-Este é o curso para aprender a criar uma API com .NET Core 2.0 e Dapper, que são tecnologias Microsoft amplamente utilizadas no mercado atual.
+# Criando API com ASP.NET Core 2.0 e Dapper
 
 O objetivo deste curso é te mostrar os detalhes de implementação e todas as decisões técnicas para a viabilização de uma API com estas tecnologias.
 
-## Neste curso sobre API com ASP.NET Core 2.0 e Dapper você vai...
+## Características desse projeto:
 *   Revisar conceitos de OOP (classes, modificadores, interfaces, sobrescrita etc.)
 *   Aprender sobre domínios ricos e domínios anêmicos
 *   Aprender a organizar uma solução em contextos delimitados (DDD)
@@ -25,14 +23,6 @@ O objetivo deste curso é te mostrar os detalhes de implementação e todas as d
 *   Criar um projeto Web utilizando MVC
 *   Definir configurações da aplicação utilizando AppSettings
 *   Fazer deployment da aplicação na nuvem (Microsoft Azure)
-
-## Para quem é recomendado este curso sobre API com ASP.NET Core 2.0 e Dapper 
-
-*   Iniciantes buscando um projeto de API para conhecer boas práticas desde o projeto até a entrega
-*   Desenvolvedores que trabalham ou darão manutenção em sistemas com ASP.NET Core 2.0
-*   Desenvolvedores que querem começar a trabalhar com .NET framework.
-*   Profissionais que querem ter seu primeiro contato com Dapper
-*   Profissionais se preparando para entrevista técnica onde são requisitos ASP.NET Core 2.0 e Dapper
 
 ## Tecnologias e versões utilizadas
 *   ASP.NET Core 2.0
